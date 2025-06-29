@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Nnaji Alexander - Data Analyst
 
-<!--
-**Alexander-Nnaji/Alexander-Nnaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst passionate about turning raw data into actionable insights. I specialize in Python, Excel, SQL, and Power BI to uncover trends, solve problems, and support data-driven decisions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-EDUCATION [HND. HIGHER NATIONAL DIPLOMA.In MICRO BIOLOGY.Institute of management and technology.Enugu.
+
+-Focused on Data Analysis,business intelligence and visualization
+
+-Tools- Excel, Powerbi, sql, python
+
+-currently working on real world data projects and capstone case studies
+
+-Always learning new skills and frame works for better story telling
+
+## tools and skills
+
+ visualization  -powerbi,excel,Matplotib.
+
+ Data ANALYSIS - Excel,powerbi,python (PANDAS,NUMPHY)M SQL
+
+ DATA CLEANIND - EXCEL,PYTHON, POWERQUERY.
+
+ BUSINESS INSIGHTS -KPIN Tracking, Dashboards,Reporting
+
+ 
+
+
+
