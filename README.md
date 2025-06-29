@@ -6,23 +6,23 @@ I'm a data analyst passionate about turning raw data into actionable insights. I
 
 -EDUCATION [HND. HIGHER NATIONAL DIPLOMA.In MICRO BIOLOGY.Institute of management and technology.Enugu.
 
--Focused on Data Analysis,business intelligence and visualization
+-Focused on Data Analytics,business intelligence and visualization
 
 -Tools- Excel, Powerbi, sql, python
 
 -currently working on real world data projects and capstone case studies
 
--Always learning new skills and frame works for better story telling
+-Always learning new skills and frame works for better story telling with data
 
 ## tools and skills
 
- visualization  -powerbi,excel,Matplotib.
+ visualization - powerbi,excel,Matplotib.
 
- Data ANALYSIS - Excel,powerbi,python (PANDAS,NUMPHY)M SQL
+ Data Analysis - Excel,powerbi,python (PANDAS,NUMPHY)M SQL
 
  DATA CLEANIND - EXCEL,PYTHON, POWERQUERY.
 
- BUSINESS INSIGHTS -KPIN Tracking, Dashboards,Reporting
+ BUSINESS Insights - KPI Tracking, Dashboards,Reporting
 
  
 
