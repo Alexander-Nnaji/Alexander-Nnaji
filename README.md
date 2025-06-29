@@ -16,13 +16,13 @@ I'm a data analyst passionate about turning raw data into actionable insights. I
 
 ## tools and skills
 
- visualization - powerbi,excel,Matplotib.
+ Visualization - powerbi,excel,Matplotib.
 
  Data Analysis - Excel,powerbi,python (PANDAS,NUMPHY)M SQL
 
- DATA CLEANIND - EXCEL,PYTHON, POWERQUERY.
+ DATA Cleaning - EXCEL,PYTHON, POWERQUERY.
 
- BUSINESS Insights - KPI Tracking, Dashboards,Reporting
+ Business Insights - KPI Tracking, Dashboards,Reporting
 
  
 
